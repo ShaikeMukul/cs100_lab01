@@ -4,3 +4,10 @@ cmake_install.cmake
 Makefile
 
 c-echo
+
+area_calculator
+bigger_area_calculator
+lib
+test
+bin
+
